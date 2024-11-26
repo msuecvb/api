@@ -1,0 +1,74 @@
+{
+    "member": [
+        {
+            "employee_id": "000001",
+            "employee_name": "山田太郎",
+            "lottery_number": "16",
+            "registration_date": "2024-07-27T10:00:00Z",
+            "edit_date": "2024-07-27T10:00:00Z"
+        },
+        {
+            "employee_id": "000002",
+            "employee_name": "田中花子",
+            "lottery_number": "5",
+            "registration_date": "2024-07-27T10:01:00Z",
+            "edit_date": "2024-07-27T10:01:00Z"
+        },
+        {
+            "employee_id": "000003",
+            "employee_name": "佐藤一郎",
+            "lottery_number": "22",
+            "registration_date": "2024-07-27T10:02:00Z",
+            "edit_date": "2024-07-27T10:02:00Z"
+        },
+        {
+            "employee_id": "000004",
+            "employee_name": "鈴木次郎",
+            "lottery_number": "11",
+            "registration_date": "2024-07-27T10:03:00Z",
+            "edit_date": "2024-07-27T10:03:00Z"
+        },
+        {
+            "employee_id": "000005",
+            "employee_name": "高橋三郎",
+            "lottery_number": "3",
+            "registration_date": "2024-07-27T10:04:00Z",
+            "edit_date": "2024-07-28T10:04:00Z"
+        },
+        {
+            "employee_id": "000006",
+            "employee_name": "渡辺四郎",
+            "lottery_number": "19",
+            "registration_date": "2024-07-27T10:05:00Z",
+            "edit_date": "2024-07-27T10:05:00Z"
+        },
+        {
+            "employee_id": "000007",
+            "employee_name": "伊藤五郎",
+            "lottery_number": "7",
+            "registration_date": "2024-07-27T10:06:00Z",
+            "edit_date": "2024-07-27T10:06:00Z"
+        },
+        {
+            "employee_id": "000008",
+            "employee_name": "山本六郎",
+            "lottery_number": "1",
+            "registration_date": "2024-07-27T10:07:00Z",
+            "edit_date": "2024-07-27T10:07:00Z"
+        },
+        {
+            "employee_id": "000009",
+            "employee_name": "中村七郎",
+            "lottery_number": "14",
+            "registration_date": "2024-07-27T10:08:00Z",
+            "edit_date": "2024-07-27T10:08:00Z"
+        },
+        {
+            "employee_id": "000010",
+            "employee_name": "小林八郎",
+            "lottery_number": "24",
+            "registration_date": "2024-07-27T10:09:00Z",
+            "edit_date": "2024-07-27T10:09:00Z"
+        }
+    ]
+}
